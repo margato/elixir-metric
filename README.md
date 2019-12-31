@@ -2,7 +2,7 @@
 
 Metric is a module to make numbers more human-readable.
 
-## (Docs)[https://hexdocs.pm/metric]
+## [Docs](https://hexdocs.pm/metric)
 
 ## Installation
 
