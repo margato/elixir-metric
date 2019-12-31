@@ -2,10 +2,11 @@
 
 Metric is a module to make numbers more human-readable.
 
+## (Docs)[https://hexdocs.pm/metric]
+
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `metric` to your list of dependencies in `mix.exs`:
+This package can be installed by adding `metric` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
@@ -14,6 +15,7 @@ def deps do
   ]
 end
 ```
+[See in Hex](https://hex.pm/packages/metric)
 
 ### Examples
 ```elixir
